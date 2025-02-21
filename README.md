@@ -2,6 +2,9 @@
 
 A monitoring tool that tracks new tribe creations on tribe.run and validates creator Twitter metrics.
 
+![Example](https://github.com/user-attachments/assets/768079ed-ff0b-469f-9cfc-490836ffc154)
+
+
 ## Setup
 
 1. Install Bun:
